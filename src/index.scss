@@ -1,0 +1,21 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+//200px
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGray: #9b9b9b;
+$mainOffWhite:rgb(240, 224, 224);
+$mainTransition: all 0.3s linear;
+
+
+body { 
+  font-family: 'Pacifico', cursive;
+  background: $mainWhite;
+  color: $mainBlack;
+}
